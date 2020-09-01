@@ -1,0 +1,16 @@
+{
+  "name": "discord-response-bot",
+  "version": "1.0.0",
+  "description": "simple response bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "Richard Therrien",
+  "license": "ISC",
+  "dependencies": {
+    "custom-env": "^2.0.1",
+    "discord.js": "^12.3.1"
+  }
+}
